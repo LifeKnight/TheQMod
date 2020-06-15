@@ -1,0 +1,12 @@
+[
+{
+  "modid": "qmod",
+  "name": "The Q Mod",
+  "description": "HUD mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "authorList": ["LifeKnight"],
+  "credits": "qewer3322 (commission)",
+  "logoFile": "logo.png"
+}
+]
